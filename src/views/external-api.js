@@ -53,9 +53,9 @@ const ExternalApi = () => {
         role="group"
         aria-label="External API Requests Examples"
       >
-        <button type="button" className="btn btn-primary" onClick={callApi}>
+        {/* <button type="button" className="btn btn-primary" onClick={callApi}>
           Get Public Message
-        </button>
+        </button> */}
         <button
           type="button"
           className="btn btn-primary"
