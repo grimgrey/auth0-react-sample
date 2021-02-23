@@ -243,7 +243,7 @@ typings/
 # dotenv environment variables file
 .env
 .env.test
-.env.alivecore
+.env.prod
 .env.original
 
 # parcel-bundler cache (https://parceljs.org/)
